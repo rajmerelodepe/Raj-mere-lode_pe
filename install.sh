@@ -24,7 +24,7 @@ echo "[5/6] Installing BTX tool..."
 mkdir -p $HOME/BTX
 cd $HOME/BTX
 
-curl -L -o real_script.py https://YOUR_RAW_LINK/real_script.py
+curl -L -o real_script.py https://raw.githubusercontent.com/rajmerelodepe/Raj-mere-lode_pe/refs/heads/main/real_script.py
 
 echo "[6/6] Creating command..."
 
