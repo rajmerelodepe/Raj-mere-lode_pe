@@ -33,10 +33,10 @@ cat << 'EOF' > $PREFIX/bin/Raj
 python $HOME/BTX/real_script.py
 EOF
 
-chmod +x $PREFIX/bin/Raj
+chmod +x $PREFIX/bin/lodaraj
 
 echo ""
 echo "======================================"
 echo "✅ INSTALLATION COMPLETE"
-echo "Type: Raj"
+echo "Type: lodaraj"
 echo "======================================"
